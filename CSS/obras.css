@@ -105,9 +105,9 @@ body {
 /* Background */
 .background-a {
   grid-area: background-a;
-  background-image: url(../img/paris.jpg);
+  background-image: url(../IMG/esperanza.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 
 }
 
@@ -115,11 +115,38 @@ body {
   padding: 4em 2em;
 }
 
-.container-a h1 {
-  font-size: 3em;
+.container-text {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-text h1 {
+  font-size: 4em;
   font-family: var(--poiretone);
   color: #fff;
-  text-align: center;
+}
+
+.container-text p {
+  font-family: var(--opensans);
+  color: #fff;
+  margin: 1em 0;
+  line-height: 1.8em;
+  font-size: 20px;
+}
+
+.container-text a {
+  border: 1px solid transparent;
+  background-color: var(--oscuro);
+  color: #fff;
+  font-size: 1em;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  transition: .5s;
+}
+
+.container-text a:hover {
+  background: var(--orange);
 }
 
 /* Background --*/
