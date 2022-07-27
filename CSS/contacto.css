@@ -271,7 +271,7 @@ body {
 
 .about p,
 .contact2 p {
-  font-size: 14px;
+  font-size: 18px;
   color: var(--gris);
   line-height: 2em;
   font-family: var(--opensans);
