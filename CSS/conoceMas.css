@@ -176,6 +176,7 @@ body {
   line-height: 1.8em;
   font-family: var(--opensans);
   margin-bottom: 1em;
+  text-align: justify;
 }
 
 .about-grid h4 {
@@ -242,6 +243,7 @@ body {
   color: #fff;
   margin: 1em 0;
   line-height: 1.8em;
+  text-align: justify;
 }
 
 .container-text .text-h2 {
@@ -324,6 +326,7 @@ body {
   color: var(--gris);
   line-height: 2em;
   font-family: var(--opensans);
+  text-align: justify;
 }
 
 .flick-grids {

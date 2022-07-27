@@ -133,6 +133,7 @@ body {
   margin: 1em 0;
   line-height: 1.8em;
   font-size: 20px;
+  text-align: justify;
 }
 
 .container-text a {
@@ -196,6 +197,7 @@ body {
   font-family: var(--opensans);
   line-height: 2em;
   margin: 1em 0 0em;
+  text-align: justify;
 }
 
 
@@ -235,6 +237,7 @@ body {
   color: var(--gris);
   line-height: 2em;
   font-family: var(--opensans);
+  text-align: justify;
 }
 
 .flick-grids {
