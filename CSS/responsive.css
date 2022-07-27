@@ -210,7 +210,7 @@
 
   .container-services {
     grid-template-columns: 1fr 1fr;
-    padding: 1em 2em;
+    padding: 1em 1em;
     grid-gap: 10px;
   }
 
