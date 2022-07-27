@@ -186,7 +186,7 @@ body {
 
 .about-grid h3 {
   color: var(--orange);
-  font-family: var(--poiretone);
+  font-family: var(--opensans);
   font-size: 3em;
   margin-bottom: .5em;
 }

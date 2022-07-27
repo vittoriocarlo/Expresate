@@ -482,6 +482,11 @@ body {
   background: var(--oscuro);
   border: none;
   font-family: var(--opensans);
+  cursor: pointer;
+  transition: .5s all;
+}
+.form-contact input[type="submit"]:hover {
+  background-color: #DA6A3C;
 }
 
 /* -Footer*/
